@@ -33,3 +33,8 @@ made by lijin
 >>>二叉树
 >>>>满二叉树
 >>>>完全二叉树
+
+```Python
+print('123'+'456')# python
+print('456'+'123')
+```
